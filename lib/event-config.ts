@@ -6,7 +6,7 @@ export const eventConfig = {
   "venue": "The Stafford London, 16-18 St James's Place, London SW1A 1NJ",
   "capacity": 30,
   "eventTitle": "VIP Connect — London Leadership Dinner",
-  "heroImageUrl": "https://zxjuq10yjr13vx51.public.blob.vercel-storage.com/photos/moloco-event-london-2/winecellar.jpg",
+  "heroImageUrl": "https://zxjuq10yjr13vx51.public.blob.vercel-storage.com/photos/moloco-event-london-2/header-image.jpg",
   "heroHeadline": "VIP Connect",
   "heroSubheadline": "London Leadership Dinner",
   "heroDescription": "An invitation-only gathering for senior leaders shaping the future of commerce and machine learning.",
