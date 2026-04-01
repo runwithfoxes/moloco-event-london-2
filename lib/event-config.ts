@@ -9,7 +9,7 @@ export const eventConfig = {
   "heroImageUrl": "https://zxjuq10yjr13vx51.public.blob.vercel-storage.com/photos/moloco-event-london-2/header-image.jpg",
   "heroHeadline": "VIP Connect",
   "heroSubheadline": "London Leadership Dinner",
-  "heroDescription": "An invitation-only gathering for senior leaders shaping the future of commerce and machine learning.",
+  "heroDescription": "An invitation-only evening for senior leaders shaping the future of FinTech marketing.",
   "experienceHeadline": "Thirty leaders.\\nSeventeenth-century wine cellars.\\nNo slides.",
   "experienceParagraphs": [
     "A closed-door, invitation-only evening designed for connection, not networking. The group is deliberately small. Senior enough to speak candidly, diverse enough to challenge each other's assumptions.",
