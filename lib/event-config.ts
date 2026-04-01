@@ -82,6 +82,7 @@ export const eventConfig = {
       "a": "The Stafford London, 16-18 St James's Place, London SW1A 1NJ accommodates dietary needs: vegetarian, vegan, gluten-free, allergies. Note yours on the registration form and they'll take care of it."
     }
   ],
+  "menuSections": ["Hero", "Welcome", "The Experience", "Day at a glance", "Venue", "FAQ"],
   "calendarTitle": "Moloco VIP Connect — London Leadership Dinner",
   "calendarUidPrefix": "moloco-vip-connect-2026",
   "siteUrl": "https://moloco-event-london-2.vercel.app",
