@@ -3,7 +3,7 @@
 
 export const eventConfig = {
   "city": "London",
-  "venue": "The Stafford London, 16-18 St James's Place, London SW1A 1NJ",
+  "venue": "The Stafford London",
   "capacity": 30,
   "eventTitle": "VIP Connect — London Leadership Dinner",
   "heroImageUrl": "https://zxjuq10yjr13vx51.public.blob.vercel-storage.com/photos/moloco-event-london-2/header-image.jpg",
@@ -79,7 +79,7 @@ export const eventConfig = {
     },
     {
       "q": "What about dietary requirements?",
-      "a": "The Stafford London, 16-18 St James's Place, London SW1A 1NJ accommodates dietary needs: vegetarian, vegan, gluten-free, allergies. Note yours on the registration form and they'll take care of it."
+      "a": "The Stafford London accommodates dietary needs: vegetarian, vegan, gluten-free, allergies. Note yours on the registration form and they'll take care of it."
     }
   ],
   "menuSections": ["Hero", "Welcome", "The Experience", "Day at a glance", "Venue", "FAQ"],
