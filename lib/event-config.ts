@@ -86,7 +86,7 @@ export const eventConfig = {
   "calendarUidPrefix": "moloco-vip-connect-2026",
   "siteUrl": "https://moloco-event-london-2.vercel.app",
   "slug": "moloco-event-london-2",
-  "eventSubtitle": "An invitation-only evening for senior FinTech marketing leaders",
+  "eventSubtitle": "FINTECH EDITION",
   "venueAddress": "16-18 St James's Place, SW1A 1NJ, London",
   "venueAddressFull": "16-18 St James's Place, London SW1A 1NJ, United Kingdom",
   "date": "May 14, 2026",
