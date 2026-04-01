@@ -6,14 +6,14 @@ export const eventConfig = {
   "venue": "The Stafford London, 16-18 St James's Place, London SW1A 1NJ",
   "capacity": 30,
   "eventTitle": "VIP Connect — London Leadership Dinner",
-  "heroImageUrl": "/venue/long-table.png",
+  "heroImageUrl": "https://zxjuq10yjr13vx51.public.blob.vercel-storage.com/photos/moloco-event-london-2/winecellar.jpg",
   "heroHeadline": "VIP Connect",
   "heroSubheadline": "London Leadership Dinner",
   "heroDescription": "An invitation-only gathering for senior leaders shaping the future of commerce and machine learning.",
   "experienceHeadline": "Thirty leaders.\\nSeventeenth-century wine cellars.\\nNo slides.",
   "experienceParagraphs": [
-    "A closed-door, invitation-only evening designed for connection, not networking. The group is deliberately small. Senior enough to speak candidly, diverse enough to challenge each other’s assumptions.",
-    "The conversation centres on what machine learning is actually changing in commerce. Not the theory, but the reality. What’s working, what’s not, and what the next twelve months look like.",
+    "A closed-door, invitation-only evening designed for connection, not networking. The group is deliberately small. Senior enough to speak candidly, diverse enough to challenge each other's assumptions.",
+    "The conversation centres on what machine learning is actually changing in commerce. Not the theory, but the reality. What's working, what's not, and what the next twelve months look like.",
     "We gather in The Stafford London's historic wine cellars, carved from 17th-century foundations beneath St James's."
   ],
   "agendaItems": [
@@ -63,7 +63,7 @@ export const eventConfig = {
     },
     {
       "q": "Who is this event for?",
-      "a": "Senior executives and leadership in growth, UA, product, monetisation, and performance marketing. We keep the group to around 30 people. Small enough that everyone speaks, diverse enough that you’ll hear something that changes how you think about a problem."
+      "a": "Senior executives and leadership in growth, UA, product, monetisation, and performance marketing. We keep the group to around 30 people. Small enough that everyone speaks, diverse enough that you'll hear something that changes how you think about a problem."
     },
     {
       "q": "Is this a public event / can I bring a +1?",
@@ -71,7 +71,7 @@ export const eventConfig = {
     },
     {
       "q": "What should I wear?",
-      "a": "Smart casual. Polished but comfortable. Think what you’d wear to dinner with people you want to impress without looking like you tried."
+      "a": "Smart casual. Polished but comfortable. Think what you'd wear to dinner with people you want to impress without looking like you tried."
     },
     {
       "q": "Is there a cost to attend?",
@@ -79,7 +79,7 @@ export const eventConfig = {
     },
     {
       "q": "What about dietary requirements?",
-      "a": "The Stafford London, 16-18 St James's Place, London SW1A 1NJ accommodates dietary needs: vegetarian, vegan, gluten-free, allergies. Note yours on the registration form and they’ll take care of it."
+      "a": "The Stafford London, 16-18 St James's Place, London SW1A 1NJ accommodates dietary needs: vegetarian, vegan, gluten-free, allergies. Note yours on the registration form and they'll take care of it."
     }
   ],
   "calendarTitle": "Moloco VIP Connect — London Leadership Dinner",
